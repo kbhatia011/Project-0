@@ -34,7 +34,7 @@ public short getCTime()
 {
 return cTime;
 }
-public short getCDay()
+public short getCDay() //liberate
 {
 return cDay;
 }
