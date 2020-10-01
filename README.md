@@ -1,3 +1,2 @@
 # Project-0
-First repository.
-Learning about GitHub
+First repository to learn github and its functionalities.
