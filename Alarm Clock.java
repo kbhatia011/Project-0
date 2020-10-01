@@ -82,8 +82,7 @@ public void setClockState(boolean cs)
 }
 class Tester
 {
-public static void main(String[] args) // main function
+public static void main(String[] args) //main function
 {
-
 }
 }
